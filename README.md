@@ -5,7 +5,7 @@ Welcome to the GitHub repository for the "Tesla Stock Forecasting: A Data-Driven
 
 ## Files Included
 - **download.jpeg:** An overview image providing insights into the use of Facebook Prophet.
-- **YashForecast.csv:** Dataset used for Tesla stock price forecasting.
+- **YashForecast.csv:** 30 days forecasted dataset by model.
 - **TSLA1.csv:** Additional dataset for analysis and comparison.
 - **Yash_Tesla_Coursera_Notebook_prophet.ipynb:** Jupyter Notebook containing the Python code and implementation details.
 - **Screenshot:** Screenshots capturing key moments in the forecasting process.
